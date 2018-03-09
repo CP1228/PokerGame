@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=
+comment1.target=Card()
+comment10.params=number
+comment10.target=int\ numberToInt(java.lang.String)
+comment2.params=n\ s
+comment2.target=Card(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ randomize()
+comment4.params=
+comment4.target=java.lang.String\ getNumber()
+comment5.params=
+comment5.target=java.lang.String\ getSuit()
+comment6.params=
+comment6.target=void\ printCard()
+comment7.params=n
+comment7.target=void\ intToString(int)
+comment8.params=n
+comment8.target=java.lang.String\ integerToString(int)
+comment9.params=
+comment9.target=int\ numberToInt()
+numComments=11

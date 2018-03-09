@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PokerTable
+comment1.params=color
+comment1.target=PokerTable(java.awt.Color)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=g\ x\ y
+comment4.target=void\ drawCan(java.awt.Graphics,\ int,\ int)
+numComments=5
